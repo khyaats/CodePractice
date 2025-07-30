@@ -1,8 +1,5 @@
 //Practice Problems here.
 #include <iostream>
-#include<vector>
-#include<map>
-
 
 int main()
 {

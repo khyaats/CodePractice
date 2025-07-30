@@ -1,3 +1,9 @@
-﻿  ConsoleApplicationForPractice.cpp
-C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\ConsoleApplicationForPractice\ConsoleApplicationForPractice.cpp(17,1): warning C4715: 'isPalindrome': not all control paths return a value
+﻿  bestTimeToBuyAndSellStocks.cpp
+C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\ConsoleApplicationForPractice\bestTimeToBuyAndSellStocks.cpp(8,27): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  ConsoleApplicationForPractice.cpp
+  mergeTwoSortedLists.cpp
+  pallindrome.cpp
+  validparenthiesis.cpp
+  Generating Code...
+C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\ConsoleApplicationForPractice\pallindrome.cpp(12,1): warning C4715: 'isPalindrome': not all control paths return a value
   ConsoleApplicationForPractice.vcxproj -> C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\x64\Debug\ConsoleApplicationForPractice.exe
