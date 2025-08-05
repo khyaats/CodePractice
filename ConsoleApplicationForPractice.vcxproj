@@ -128,10 +128,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="bestTimeToBuyAndSellStocks.cpp" />
+    <ClCompile Include="binarySearch.cpp" />
     <ClCompile Include="ConsoleApplicationForPractice.cpp" />
     <ClCompile Include="addtwonumbers.cpp" />
+    <ClCompile Include="invertTree.cpp" />
     <ClCompile Include="mergeTwoSortedLists.cpp" />
     <ClCompile Include="pallindrome.cpp" />
+    <ClCompile Include="pallindromeAlphabet.cpp" />
+    <ClCompile Include="validAnagram.cpp" />
     <ClCompile Include="validparenthiesis.cpp" />
     <ClCompile Include="twoSum.cpp" />
   </ItemGroup>

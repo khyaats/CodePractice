@@ -36,5 +36,17 @@
     <ClCompile Include="bestTimeToBuyAndSellStocks.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="pallindromeAlphabet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="invertTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="validAnagram.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="binarySearch.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
