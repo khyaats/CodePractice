@@ -132,9 +132,11 @@
     <ClCompile Include="ConsoleApplicationForPractice.cpp" />
     <ClCompile Include="addtwonumbers.cpp" />
     <ClCompile Include="invertTree.cpp" />
+    <ClCompile Include="linkedListCycle.cpp" />
     <ClCompile Include="mergeTwoSortedLists.cpp" />
     <ClCompile Include="pallindrome.cpp" />
     <ClCompile Include="pallindromeAlphabet.cpp" />
+    <ClCompile Include="stackUsingQueue.cpp" />
     <ClCompile Include="validAnagram.cpp" />
     <ClCompile Include="validparenthiesis.cpp" />
     <ClCompile Include="twoSum.cpp" />
