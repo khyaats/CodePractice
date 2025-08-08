@@ -127,15 +127,26 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="addBinary.cpp" />
     <ClCompile Include="bestTimeToBuyAndSellStocks.cpp" />
     <ClCompile Include="binarySearch.cpp" />
+    <ClCompile Include="climbingStairs.cpp" />
     <ClCompile Include="ConsoleApplicationForPractice.cpp" />
     <ClCompile Include="addtwonumbers.cpp" />
+    <ClCompile Include="containsDuplicate.cpp" />
+    <ClCompile Include="diameterOfBinaryTree.cpp" />
+    <ClCompile Include="firstBAdVersion.cpp" />
     <ClCompile Include="invertTree.cpp" />
     <ClCompile Include="linkedListCycle.cpp" />
+    <ClCompile Include="longestPallindrome.cpp" />
+    <ClCompile Include="majorityElement.cpp" />
+    <ClCompile Include="maximumDepth.cpp" />
     <ClCompile Include="mergeTwoSortedLists.cpp" />
+    <ClCompile Include="middle_linked_list.cpp" />
     <ClCompile Include="pallindrome.cpp" />
     <ClCompile Include="pallindromeAlphabet.cpp" />
+    <ClCompile Include="ransomNote.cpp" />
+    <ClCompile Include="reverseLinkedList.cpp" />
     <ClCompile Include="stackUsingQueue.cpp" />
     <ClCompile Include="validAnagram.cpp" />
     <ClCompile Include="validparenthiesis.cpp" />
