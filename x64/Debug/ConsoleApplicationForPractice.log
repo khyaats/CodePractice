@@ -1,2 +1,5 @@
-﻿  majorityElement.cpp
-C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\ConsoleApplicationForPractice\majorityElement.cpp(8,33): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+﻿  meetingRooms.cpp
+  meetingRooms2.cpp
+  romanToInteger.cpp
+  Generating Code...
+  ConsoleApplicationForPractice.vcxproj -> C:\Users\EndUser\Downloads\Practice\ConsoleApplicationForPractice\x64\Debug\ConsoleApplicationForPractice.exe

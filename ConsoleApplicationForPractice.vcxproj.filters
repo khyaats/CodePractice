@@ -87,5 +87,17 @@
     <ClCompile Include="containsDuplicate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="meetingRooms.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="meetingRooms2.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="romanToInteger.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="backstringComparison.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
