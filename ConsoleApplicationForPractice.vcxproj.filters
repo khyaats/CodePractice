@@ -120,5 +120,17 @@
     <ClCompile Include="maximumSubArray.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="insertInterval.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="zero-oneMatrix.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="kClosestPointToOrigin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="smartPointers.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

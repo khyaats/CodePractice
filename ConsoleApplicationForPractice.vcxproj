@@ -138,7 +138,9 @@
     <ClCompile Include="convertSortedArrayToBST.cpp" />
     <ClCompile Include="diameterOfBinaryTree.cpp" />
     <ClCompile Include="firstBAdVersion.cpp" />
+    <ClCompile Include="insertInterval.cpp" />
     <ClCompile Include="invertTree.cpp" />
+    <ClCompile Include="kClosestPointToOrigin.cpp" />
     <ClCompile Include="linkedListCycle.cpp" />
     <ClCompile Include="longestPallindrome.cpp" />
     <ClCompile Include="majorityElement.cpp" />
@@ -155,6 +157,7 @@
     <ClCompile Include="reverseBits.cpp" />
     <ClCompile Include="reverseLinkedList.cpp" />
     <ClCompile Include="romanToInteger.cpp" />
+    <ClCompile Include="smartPointers.cpp" />
     <ClCompile Include="squaresOfSortedArray.cpp" />
     <ClCompile Include="stackUsingQueue.cpp" />
     <ClCompile Include="subTreeofAnotherTree.cpp" />
@@ -162,6 +165,7 @@
     <ClCompile Include="validAnagram.cpp" />
     <ClCompile Include="validparenthiesis.cpp" />
     <ClCompile Include="twoSum.cpp" />
+    <ClCompile Include="zero-oneMatrix.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
